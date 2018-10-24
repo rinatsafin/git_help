@@ -1,6 +1,6 @@
 # Quick setup — if you’ve done this kind of thing before
-###HTTP: https://github.com/rinatsafin/udemy_react_fullstack.git
-####SSH: git@github.com:rinatsafin/udemy_react_fullstack.git
+HTTP: https://github.com/rinatsafin/udemy_react_fullstack.git
+SSH: git@github.com:rinatsafin/udemy_react_fullstack.git
 We recommend every repository include a README, LICENSE, and .gitignore.
 
 
