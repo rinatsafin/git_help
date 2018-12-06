@@ -1,6 +1,6 @@
 # Quick setup — if you’ve done this kind of thing before
-<br>HTTP: https://github.com/@USERNAME@/[ENTER_REPOSITORY_NAME].git
-<br>SSH: git@github.com:rinatsafin/[ENTER_REPOSITORY_NAME].git
+<br>HTTP: https://github.com/@YOUR_USER_NAME@/[ENTER_REPOSITORY_NAME].git
+<br>SSH: git@github.com:@YOUR_USER_NAME@/[ENTER_REPOSITORY_NAME].git
 <br>We recommend every repository include a README, LICENSE, and .gitignore.
 
 
